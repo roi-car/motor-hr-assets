@@ -1,0 +1,169 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Motor HR Team – Recruitment Cycle</title>
+  <defs>
+    <marker id="at" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M1.5 1.5L8.5 5L1.5 8.5" fill="none" stroke="#0F6E56" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M1.5 1.5L8.5 5L1.5 8.5" fill="none" stroke="#854F0B" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <linearGradient id="gradLeft" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d4ede7"/>
+      <stop offset="100%" stop-color="#f0f4f8"/>
+    </linearGradient>
+    <linearGradient id="gradRight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f0f4f8"/>
+      <stop offset="100%" stop-color="#fdf0dc"/>
+    </linearGradient>
+    <linearGradient id="gradBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8f5f1"/>
+      <stop offset="50%" stop-color="#f0f4f8"/>
+      <stop offset="100%" stop-color="#fdf5e8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="720" fill="url(#gradBg)"/>
+  <pattern id="dots" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+    <circle cx="16" cy="16" r="1" fill="#1D9E75" fill-opacity="0.08"/>
+  </pattern>
+  <rect width="1280" height="720" fill="url(#dots)"/>
+
+  <!-- LEFT PANEL -->
+  <rect x="0" y="0" width="190" height="720" fill="url(#gradLeft)" opacity="0.6"/>
+  <line x1="188" y1="40" x2="188" y2="680" stroke="#1D9E75" stroke-width="1.5" stroke-opacity="0.3"/>
+  <text x="95" y="120" text-anchor="middle" fill="#0F6E56" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="3" opacity="0.6">ATTRACT</text>
+  <line x1="40" y1="135" x2="150" y2="135" stroke="#1D9E75" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="95" y="210" text-anchor="middle" fill="#0F6E56" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="3" opacity="0.6">ASSESS</text>
+  <line x1="40" y1="225" x2="150" y2="225" stroke="#1D9E75" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="95" y="300" text-anchor="middle" fill="#0F6E56" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="3" opacity="0.6">OFFER</text>
+  <line x1="40" y1="315" x2="150" y2="315" stroke="#1D9E75" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="95" y="390" text-anchor="middle" fill="#854F0B" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="3" opacity="0.6">WELCOME</text>
+  <line x1="40" y1="405" x2="150" y2="405" stroke="#EF9F27" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="95" y="480" text-anchor="middle" fill="#854F0B" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="3" opacity="0.6">GROW</text>
+  <line x1="40" y1="495" x2="150" y2="495" stroke="#EF9F27" stroke-width="1" stroke-opacity="0.3"/>
+  <circle cx="30" cy="660" r="80" fill="#1D9E75" fill-opacity="0.07"/>
+  <circle cx="30" cy="660" r="50" fill="#1D9E75" fill-opacity="0.06"/>
+
+  <!-- RIGHT PANEL -->
+  <rect x="1090" y="0" width="190" height="720" fill="url(#gradRight)" opacity="0.6"/>
+  <line x1="1092" y1="40" x2="1092" y2="680" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.3"/>
+  <text x="1185" y="140" text-anchor="middle" fill="#854F0B" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="2" opacity="0.7">MOTOR</text>
+  <text x="1185" y="160" text-anchor="middle" fill="#1e3a5f" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="2" opacity="0.7">HR</text>
+  <text x="1185" y="180" text-anchor="middle" fill="#854F0B" font-size="11" font-weight="700" font-family="sans-serif" letter-spacing="2" opacity="0.7">TEAM</text>
+  <line x1="1130" y1="195" x2="1240" y2="195" stroke="#EF9F27" stroke-width="1" stroke-opacity="0.3"/>
+  <circle cx="1255" cy="80" r="80" fill="#EF9F27" fill-opacity="0.07"/>
+  <circle cx="1255" cy="80" r="50" fill="#EF9F27" fill-opacity="0.06"/>
+  <circle cx="1155" cy="370" r="12" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.4"/>
+  <circle cx="1155" cy="365" r="4" fill="#EF9F27" fill-opacity="0.4"/>
+  <path d="M 1148 378 Q 1155 374 1162 378" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.4" stroke-linecap="round"/>
+  <circle cx="1185" cy="390" r="12" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.4"/>
+  <circle cx="1185" cy="385" r="4" fill="#EF9F27" fill-opacity="0.4"/>
+  <path d="M 1178 398 Q 1185 394 1192 398" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.4" stroke-linecap="round"/>
+  <circle cx="1215" cy="370" r="12" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.4"/>
+  <circle cx="1215" cy="365" r="4" fill="#EF9F27" fill-opacity="0.4"/>
+  <path d="M 1208 378 Q 1215 374 1222 378" fill="none" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.4" stroke-linecap="round"/>
+
+  <!-- TITLE -->
+  <text x="640" y="52" text-anchor="middle" fill="#1e3a5f" font-size="22" font-weight="700" font-family="sans-serif" letter-spacing="4">THE RECRUITMENT CYCLE</text>
+  <text x="640" y="74" text-anchor="middle" fill="#7a95aa" font-size="11" font-family="sans-serif" letter-spacing="2">CONTINUOUS · PEOPLE-FIRST · ALWAYS IMPROVING</text>
+  <line x1="480" y1="84" x2="640" y2="84" stroke="#1D9E75" stroke-width="1.5" stroke-opacity="0.5"/>
+  <line x1="640" y1="84" x2="800" y2="84" stroke="#EF9F27" stroke-width="1.5" stroke-opacity="0.5"/>
+
+  <!-- LOOP GLOWS -->
+  <ellipse cx="510" cy="390" rx="165" ry="155" fill="#1D9E75" fill-opacity="0.06"/>
+  <ellipse cx="770" cy="390" rx="165" ry="155" fill="#EF9F27" fill-opacity="0.06"/>
+
+  <!-- LEFT LOOP -->
+  <path d="M 640 335 C 615 250, 558 178, 495 178 C 392 178, 316 278, 316 390 C 316 502, 392 602, 495 602 C 558 602, 615 530, 640 445"
+    fill="none" stroke="#085041" stroke-width="52" stroke-opacity="0.12" stroke-linecap="butt"/>
+  <path d="M 640 335 C 615 250, 558 178, 495 178 C 392 178, 316 278, 316 390 C 316 502, 392 602, 495 602 C 558 602, 615 530, 640 445"
+    fill="none" stroke="#1D9E75" stroke-width="38" stroke-opacity="0.28" stroke-linecap="butt"/>
+  <path d="M 640 335 C 615 250, 558 178, 495 178 C 392 178, 316 278, 316 390 C 316 502, 392 602, 495 602 C 558 602, 615 530, 640 445"
+    fill="none" stroke="#5DCAA5" stroke-width="3.5" stroke-opacity="0.9" stroke-linecap="round"/>
+  <path d="M 640 335 C 620 260, 568 198, 513 198 C 418 198, 350 292, 350 390 C 350 488, 418 582, 513 582 C 568 582, 620 520, 640 445"
+    fill="none" stroke="#9FE1CB" stroke-width="1.5" stroke-opacity="0.5" stroke-linecap="round"/>
+
+  <!-- RIGHT LOOP -->
+  <path d="M 640 335 C 665 250, 722 178, 785 178 C 888 178, 964 278, 964 390 C 964 502, 888 602, 785 602 C 722 602, 665 530, 640 445"
+    fill="none" stroke="#633806" stroke-width="52" stroke-opacity="0.12" stroke-linecap="butt"/>
+  <path d="M 640 335 C 665 250, 722 178, 785 178 C 888 178, 964 278, 964 390 C 964 502, 888 602, 785 602 C 722 602, 665 530, 640 445"
+    fill="none" stroke="#EF9F27" stroke-width="38" stroke-opacity="0.25" stroke-linecap="butt"/>
+  <path d="M 640 335 C 665 250, 722 178, 785 178 C 888 178, 964 278, 964 390 C 964 502, 888 602, 785 602 C 722 602, 665 530, 640 445"
+    fill="none" stroke="#FAC775" stroke-width="3.5" stroke-opacity="0.9" stroke-linecap="round"/>
+  <path d="M 640 335 C 662 260, 712 198, 767 198 C 862 198, 930 292, 930 390 C 930 488, 862 582, 767 582 C 712 582, 662 520, 640 445"
+    fill="none" stroke="#FAC775" stroke-width="1.5" stroke-opacity="0.45" stroke-linecap="round"/>
+
+  <!-- ARROWS -->
+  <line x1="565" y1="182" x2="592" y2="190" stroke="#0F6E56" stroke-width="2.5" marker-end="url(#at)"/>
+  <line x1="548" y1="598" x2="522" y2="594" stroke="#0F6E56" stroke-width="2.5" marker-end="url(#at)"/>
+  <line x1="692" y1="190" x2="716" y2="182" stroke="#854F0B" stroke-width="2.5" marker-end="url(#aa)"/>
+  <line x1="752" y1="598" x2="726" y2="604" stroke="#854F0B" stroke-width="2.5" marker-end="url(#aa)"/>
+
+  <!-- STEP 01 -->
+  <circle cx="327" cy="390" r="42" fill="#085041" stroke="#5DCAA5" stroke-width="3"/>
+  <circle cx="327" cy="390" r="34" fill="#04342C"/>
+  <circle cx="322" cy="384" r="10" fill="none" stroke="#9FE1CB" stroke-width="2.2"/>
+  <line x1="329" y1="391" x2="338" y2="400" stroke="#9FE1CB" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="322" cy="381" r="3" fill="#9FE1CB"/>
+  <path d="M 317 387 Q 322 384 327 387" fill="none" stroke="#9FE1CB" stroke-width="1.6" stroke-linecap="round"/>
+  <text x="327" y="330" text-anchor="middle" fill="#0F6E56" font-size="13" font-weight="700" font-family="sans-serif">Plan &amp;</text>
+  <text x="327" y="347" text-anchor="middle" fill="#0F6E56" font-size="13" font-weight="700" font-family="sans-serif">Attract</text>
+
+  <!-- STEP 02 -->
+  <circle cx="495" cy="185" r="42" fill="#085041" stroke="#5DCAA5" stroke-width="3"/>
+  <circle cx="495" cy="185" r="34" fill="#04342C"/>
+  <circle cx="483" cy="177" r="5.5" fill="#9FE1CB"/>
+  <path d="M 476 191 Q 483 187 490 191" fill="none" stroke="#9FE1CB" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="507" cy="177" r="5.5" fill="#5DCAA5"/>
+  <path d="M 500 191 Q 507 187 514 191" fill="none" stroke="#5DCAA5" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="490" y="168" width="13" height="9" rx="3" fill="none" stroke="#9FE1CB" stroke-width="1.5"/>
+  <path d="M 493 177 L 492 180 L 496 177" fill="#9FE1CB"/>
+  <circle cx="493" cy="172" r="1.2" fill="#9FE1CB"/>
+  <circle cx="496" cy="172" r="1.2" fill="#9FE1CB"/>
+  <circle cx="499" cy="172" r="1.2" fill="#9FE1CB"/>
+  <text x="495" y="124" text-anchor="middle" fill="#0F6E56" font-size="13" font-weight="700" font-family="sans-serif">Assess &amp;</text>
+  <text x="495" y="141" text-anchor="middle" fill="#0F6E56" font-size="13" font-weight="700" font-family="sans-serif">Interview</text>
+
+  <!-- STEP 03 -->
+  <circle cx="770" cy="185" r="42" fill="#412402" stroke="#FAC775" stroke-width="3"/>
+  <circle cx="770" cy="185" r="34" fill="#2a1800"/>
+  <rect x="761" y="171" width="17" height="22" rx="2" fill="none" stroke="#FAC775" stroke-width="1.8"/>
+  <path d="M 764 178 L 775 178" stroke="#FAC775" stroke-width="1.3" stroke-opacity="0.6"/>
+  <path d="M 764 182 L 775 182" stroke="#FAC775" stroke-width="1.3" stroke-opacity="0.6"/>
+  <path d="M 764 188 L 767 191 L 775 184" stroke="#FAC775" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="770" y="124" text-anchor="middle" fill="#854F0B" font-size="13" font-weight="700" font-family="sans-serif">Offer &amp;</text>
+  <text x="770" y="141" text-anchor="middle" fill="#854F0B" font-size="13" font-weight="700" font-family="sans-serif">Agree</text>
+
+  <!-- STEP 04 -->
+  <circle cx="953" cy="390" r="42" fill="#412402" stroke="#FAC775" stroke-width="3"/>
+  <circle cx="953" cy="390" r="34" fill="#2a1800"/>
+  <circle cx="953" cy="377" r="6.5" fill="#FAC775"/>
+  <path d="M 937 388 L 944 384 L 953 387 L 962 384 L 969 388" fill="none" stroke="#FAC775" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 947 402 L 945 411" stroke="#FAC775" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M 959 402 L 961 411" stroke="#FAC775" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M 945 387 L 945 402 L 961 402 L 961 387" fill="none" stroke="#FAC775" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M 953 364 L 954.8 369.5 L 960.5 369.5 L 956 373 L 957.8 378.5 L 953 375 L 948.2 378.5 L 950 373 L 945.5 369.5 L 951.2 369.5 Z" fill="#EF9F27"/>
+  <text x="953" y="330" text-anchor="middle" fill="#854F0B" font-size="13" font-weight="700" font-family="sans-serif">Welcome &amp;</text>
+  <text x="953" y="347" text-anchor="middle" fill="#854F0B" font-size="13" font-weight="700" font-family="sans-serif">Onboard</text>
+
+  <!-- STEP 05 -->
+  <circle cx="770" cy="595" r="42" fill="#412402" stroke="#FAC775" stroke-width="3"/>
+  <circle cx="770" cy="595" r="34" fill="#2a1800"/>
+  <path d="M 758 604 L 758 588 Q 770 584 782 588 L 782 604 Z" fill="none" stroke="#EF9F27" stroke-width="1.8" stroke-linejoin="round"/>
+  <line x1="770" y1="584" x2="770" y2="604" stroke="#EF9F27" stroke-width="1.3" stroke-opacity="0.5"/>
+  <path d="M 770 588 C 770 582, 770 577, 770 572" stroke="#FAC775" stroke-width="2.2" fill="none" stroke-linecap="round"/>
+  <path d="M 770 580 C 763 580, 760 575, 761 571 C 764 573, 768 577, 770 580 Z" fill="#FAC775"/>
+  <path d="M 770 576 C 777 575, 780 570, 779 566 C 776 569, 773 573, 770 576 Z" fill="#EF9F27"/>
+  <circle cx="770" cy="570" r="3.5" fill="#FAC775"/>
+  <text x="770" y="650" text-anchor="middle" fill="#854F0B" font-size="13" font-weight="700" font-family="sans-serif">Employee</text>
+  <text x="770" y="667" text-anchor="middle" fill="#854F0B" font-size="13" font-weight="700" font-family="sans-serif">Development</text>
+
+  <!-- CENTER MEDALLION -->
+  <circle cx="640" cy="390" r="50" fill="white" stroke="#cbd5e0" stroke-width="2"/>
+  <circle cx="640" cy="390" r="43" fill="#f8fafc" stroke="#1D9E75" stroke-width="1.5" stroke-opacity="0.35"/>
+  <text x="640" y="379" text-anchor="middle" dominant-baseline="central" fill="#0F6E56" font-size="12" font-weight="700" font-family="sans-serif" letter-spacing="1">MOTOR</text>
+  <text x="640" y="393" text-anchor="middle" dominant-baseline="central" fill="#1e3a5f" font-size="12" font-weight="700" font-family="sans-serif" letter-spacing="1">HR</text>
+  <text x="640" y="407" text-anchor="middle" dominant-baseline="central" fill="#854F0B" font-size="12" font-weight="700" font-family="sans-serif" letter-spacing="1">TEAM</text>
+
+  <text x="640" y="695" text-anchor="middle" fill="#7a95aa" font-size="10" font-family="sans-serif" letter-spacing="1.5" opacity="0.7">motorhrteam.com</text>
+</svg>
